@@ -37,9 +37,9 @@ cd 2312360-devops-project
 
 # 2. Create your .env file
 cp .env.example .env
-# Edit .env with your values
+# Edit .env ok with your values
 
-# 3. Start all services
+# 3. Start all services 
 docker compose up --build
 
 # 4. Test the API
