@@ -73,7 +73,7 @@ sudo usermod -aG docker ubuntu
 # Clone and run
 git clone https://github.com/chand1111x/2312360-devops-project.git ~/2312360-devops-project
 cd ~/2312360-devops-project
-cp .env.example .env   # Edit with production values
+cp .env.example .env   # Edit with production value
 docker compose -f docker-compose.prod.yml up -d --build
 ```
 
