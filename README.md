@@ -1,8 +1,8 @@
 # 2312360 — DevOps Final Project
 
-> **Student:** 2312360
+> **Student:** 2312360 - Chand Raj
 > **Course:** DevOps Fundamentals
-> **Live URL:** http://YOUR_EC2_IP:8000
+> **Live URL:** http://98.83.108.159:8000/
 
 ---
 
